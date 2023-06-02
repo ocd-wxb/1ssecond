@@ -9,8 +9,7 @@ function App() {
         <h1>测试git cz </h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx 测scdwcewvemwvlemvml;规范</code> and save to
-          reload.
+          Edit <code>src/App.规范</code> and save to reload.
         </p>
         <a
           className="App-link"
